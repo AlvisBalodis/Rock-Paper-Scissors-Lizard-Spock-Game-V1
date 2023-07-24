@@ -2,7 +2,7 @@
 ``Rock-Paper-Scissors-Lizard-Spock`` is a five-gesture expansion of the classic selection method game ``Rock-Paper-Scissors``. 
 It operates on the same basic principle, but includes two additional weapons: the lizard (formed by the hand as a sock-puppet-like mouth) and Spock (formed by the Star Trek Vulcan salute).
 ### Description
-It's a very simple console (CLI) game built in beautiful programming language [Rubi].
+It's a very simple console (CLI) game built in beautiful programming language [Ruby].
 You play vs computer three rounds.
 Type in words what you choose from list and after three rounds winner is chosen.
 ### Game rules
